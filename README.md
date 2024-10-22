@@ -50,7 +50,7 @@ Automatic Sample Submission is a feature in Windows Defender that helps protect 
 <img src="https://i.imgur.com/XzAuGOD.jpeg" height="60%" width="50%" alt="Disk Sanitization Steps"/>
 
 5. <b>Regular Updates</b>: 
-Automatic Sample Submission is a feature in Windows Defender that helps protect your computer by automatically sending samples of suspicious files to Microsoft for analysis.
+This option allows users to automatically receive updated Windows Defender Antivirus and virus definitions regularly. To ensure optimal protection, Windows Defender relies on regular updates. These updates include the latest virus definitions, threat intelligence, and software improvements.
 
 
 
