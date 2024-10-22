@@ -68,7 +68,7 @@ A firewall is one of the most effective methods for securing your network from e
   - <ins>Hardware</ins> – or network-based firewalls are deployed between a network and an internet gateway. In-home or small business settings, a router often has built-in firewall protection to stop unwanted traffic from the outside. Larger organizations use separate firewall devices to protect their network.
 
 
-- <b>The network profiles</b>
+- <b>The Network Profiles</b>
 
   - <ins>Domain Network</ins>:This is a network where the computer is connected to a domain of the company and is typically used in enterprise environments. This allows to apply settings for computers that are part of a corporate or organizational network, allowing for centralized management.
   - <ins>Private Network</ins>:This is a network, such as a home or small office network, where the one or more computers can be trusted. Here, a more relaxed security settings can be applied, allowing devices within the same network to communicate more freely.
