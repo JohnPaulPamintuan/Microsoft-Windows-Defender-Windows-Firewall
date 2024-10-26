@@ -17,7 +17,7 @@ Windows Defender Antivirus, also known as Microsoft Defender Antivirus, is a rob
 Some important functions of Windows Defender Antivirus are listed below-
 1. Real-Time Protection: Windows Defender Antivirus offers several types of scans to ensure comprehensive protection, which includes *<b>Quick Scan, Full Scan, Custom Scan, Offline Scan and Schedule Scan*.</b>
 
-<img src="https://i.imgur.com/Bx7wsNQ.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1OTzJFs.png)" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
 - <b>Quick Scan</b>  Allows the user to scan the areas of the system that are most likely to be targeted by malware. This scan is faster but less comprehensive. Here's what it typically involves:
@@ -36,23 +36,22 @@ This option allows users to specify files, folders, and processes to be excluded
 - <b>Quarantine</b>: Isolating detected threats to prevent them from harming the system.
 - <b>Remove</b>: Deleting detected threats from the system.
 - <b>Allow</b>: Permitting certain detected items if they are known to be safe (adding to exclusions)
-<img src="https://i.imgur.com/xnu3LG7.jpeg" height="60%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JIk7fCk.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+
 
 3. <b>Temper Protection</b>: 
 Tamper Protection is a feature in Windows Security that helps prevent malicious apps from changing important security settings, including real-time protection and cloud-delivered protection.
-
-<img src="https://i.imgur.com/xnu3LG7.jpeg" height="60%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 4. <b>Automatic Sample Submission</b>: 
 Automatic Sample Submission is a feature in Windows Defender that helps protect your computer by automatically sending samples of suspicious files to Microsoft for analysis.
 
-<img src="https://i.imgur.com/XzAuGOD.jpeg" height="60%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Gb3kmDm.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 
 5. <b>Regular Updates</b>: 
 This option allows users to automatically receive updated Windows Defender Antivirus and virus definitions regularly. To ensure optimal protection, Windows Defender relies on regular updates. These updates include the latest virus definitions, threat intelligence, and software improvements.
 
-
+<img src="https://i.imgur.com/QgCjsQs.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 
 
 <h2>Understanding Windows Firewall </h2>
@@ -97,4 +96,4 @@ Inbound rules control the incoming network traffic to your computer. These rules
   - <b>Outbound Rules</b>
 Outbound rules control the outgoing network traffic from your computer. These rules help manage what data leaves your computer and ensure that only authorized applications and services can send information.
 
-<img src="https://www.online-tech-tips.com/wp-content/uploads/2012/07/advanced-firewall-settings.png" height="60%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://www.online-tech-tips.com/wp-content/uploads/2012/07/advanced-firewall-settings.png" height="80%" width="70%" alt="Disk Sanitization Steps"/>
