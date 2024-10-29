@@ -36,12 +36,13 @@ This option allows users to specify files, folders, and processes to be excluded
 - <b>Quarantine</b>: Isolating detected threats to prevent them from harming the system.
 - <b>Remove</b>: Deleting detected threats from the system.
 - <b>Allow</b>: Permitting certain detected items if they are known to be safe (adding to exclusions)
-<img src="https://i.imgur.com/JIk7fCk.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/HOuwpHq.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 
 
 3. <b>Temper Protection</b>: 
 Tamper Protection is a feature in Windows Security that helps prevent malicious apps from changing important security settings, including real-time protection and cloud-delivered protection.
-
+<img src="https://i.imgur.com/JIk7fCk.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 
 4. <b>Automatic Sample Submission</b>: 
 Automatic Sample Submission is a feature in Windows Defender that helps protect your computer by automatically sending samples of suspicious files to Microsoft for analysis.
