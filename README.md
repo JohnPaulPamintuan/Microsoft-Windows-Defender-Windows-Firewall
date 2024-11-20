@@ -17,7 +17,7 @@ Windows Defender Antivirus, also known as Microsoft Defender Antivirus, is a rob
 Some important functions of Windows Defender Antivirus are listed below-
 1. Real-Time Protection: Windows Defender Antivirus offers several types of scans to ensure comprehensive protection, which includes *<b>Quick Scan, Full Scan, Custom Scan, Offline Scan and Schedule Scan*.</b>
 
-<img src="https://i.imgur.com/1OTzJFs.png)" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1OTzJFs.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
 - <b>Quick Scan</b>  Allows the user to scan the areas of the system that are most likely to be targeted by malware. This scan is faster but less comprehensive. Here's what it typically involves:
